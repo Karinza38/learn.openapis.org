@@ -1,4 +1,4 @@
-# Home
+Home
 
 <img alt="OpenAPI Initiative" src="assets/images/OpenAPI_Logo_Pantone-1.png" width="100%" height="auto">
 
